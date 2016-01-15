@@ -2,7 +2,7 @@
 layout: post
 title:  "Fix klávesy scrollock"
 date:   2015-11-06 22:45:22 +0000
-categories: welcome update scrolllock klávesa
+categories: scrolllock klávesa
 ---
 Jeden kratky fix, pro ty komu nefunguje scroll lock na PS/2 klavesnici (asi i usb ....).
 Přikazem <strong>xmodmap</strong> zjitíme , či je mod3 prazdný ,

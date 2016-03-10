@@ -26,7 +26,7 @@ pokud pak funguje stačí přidat řadku
 	add mod3 = Scroll_Lock 
 pomocí vašeho oblibeneho editor textu do /etc/X11/Xmodmap (na konec). 
 např.
-	sudo nano /etc/X11/Xmodmap 
+	su -c "nano /etc/X11/Xmodmap"
 
 Zdroj informace nalezen někde pomoci Google (nepomatuju se kde presně už...)
 

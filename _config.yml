@@ -10,15 +10,12 @@ title: Mank One Blog
 email: Mank@pclinuxos.cz
 description: > # this means to ignore newlines until "baseurl:"
   Mank One - Linux & Music & Open Source Lover.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.m-opensource.eu" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  mank1
 
 gaaccount: ''
-
-# Build settings
-#markdown: kramdown
 
 highlighter: rouge
 

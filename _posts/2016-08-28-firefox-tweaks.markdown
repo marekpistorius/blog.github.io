@@ -7,6 +7,8 @@ categories: firefox tweaks
 
 V about:config 
 
+Firefox Hello (off)
 	loop.enable => false
+Pocket (off)	
 	extensions.pocket.enabled => false
 

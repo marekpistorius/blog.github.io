@@ -12,7 +12,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Mank One - Linux & Music & Open Source Lover.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.m-opensource.eu" # the base hostname & protocol for your site
-#twitter_username: jekyllrb
+twitter_username: mank_unix
 github_username:  mank1
 
 paginate: 10

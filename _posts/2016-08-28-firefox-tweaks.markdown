@@ -15,4 +15,8 @@ Pocket (off)
 
 	extensions.pocket.enabled => false
 
+Enable cointainer Tab ( Multiple account in one Browser Win)
+	
+	privacy.userContext.enabled => true	
+
 

@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Mank One Blog
-email: Mank@pclinuxos.cz
+title: (M) Blog
+email: mank.pclos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Mank One - Linux & Music & Open Source Lover.
+  One - Linux & Music & Open Source Lover.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.m-opensource.eu" # the base hostname & protocol for your site
 twitter_username: mank_unix

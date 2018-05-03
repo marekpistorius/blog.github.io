@@ -19,4 +19,4 @@ Enable cointainer Tab ( Multiple account in one Browser Win)
 	
 	privacy.userContext.enabled => true	
 
-
+for more tweaks see also https://privacytools.io

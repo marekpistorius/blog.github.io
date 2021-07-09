@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Firefox Tweaks"
-date:   2016-08-28 22:45:22 +0000
+date:   2020-07-11 21:10:00 +0000
 categories: firefox tweaks
 ---
 

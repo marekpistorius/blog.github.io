@@ -3,4 +3,4 @@ layout: page
 title: O
 permalink: /o/
 ---
-OpenSource & Linux & Music & Coding Lover
+OpenSource || Linux || Music || Coding || Tech

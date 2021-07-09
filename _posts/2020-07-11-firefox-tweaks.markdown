@@ -5,7 +5,7 @@ date:   2020-07-11 21:10:00 +0000
 categories: firefox tweaks
 ---
 
-V about:config 
+at about:config 
 
 Firefox Hello (off)
 

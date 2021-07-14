@@ -11,7 +11,7 @@ email: mank.pclos@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Linux || Music || Open Source || Tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.geekmark.eu" # the base hostname & protocol for your site
+url: "http://maniu.eu" # the base hostname & protocol for your site
 twitter_username: monkey_maniu
 github_username:  mmaniu
 

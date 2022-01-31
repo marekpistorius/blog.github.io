@@ -2,7 +2,7 @@
 layout: post
 title:  "Firefox Best Addons"
 date:   2021-07-12 21:10:00 +0000
-categories: firefox tweaks
+categories: firefox 
 ---
 
 [Sidebar](https://addons.mozilla.org/en-US/firefox/addon/container-tabs-sidebar/) \

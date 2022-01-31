@@ -50,7 +50,7 @@ body {
 }
 
 .bg {
-	background-image: url(../images/bg.png); 
+	/*background-image: url(../images/bg.png); */
 	background-position: left top;
 	background-repeat: repeat;
 }

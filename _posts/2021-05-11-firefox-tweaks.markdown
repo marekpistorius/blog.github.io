@@ -2,7 +2,7 @@
 layout: post
 title:  "Firefox Tweaks"
 date:   2020-07-11 21:10:00 +0000
-categories: firefox tweaks
+categories: firefox 
 ---
 
 at about:config 

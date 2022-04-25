@@ -5,8 +5,10 @@ date:   2022-04-24 20:00:00 +0000
 categories: cpp 
 ---
 
-Set as follows while using vcpkg https://github.com/microsoft/vcpkg/
-![DevEnv 1](/images/devenv_include.png)
-![DevEnv 2](/images/devenv_libs.png)
-![DevEnv 3](/images/devenv_link.png)
-![DevEnv 4](/images/devenv_env.png)
+Set as follows while using vcpkg for install gtk
+[vcpkg](https://github.com/microsoft/vcpkg/).
+
+<img src="/images/devenv_include.png" width="300" height="200">
+<img src="/images/devenv_libs.png)" width="300" height="200">
+<img src="/images/devenv_link.png)" width="300" height="200">
+<img src="/images/devenv_env.png)" width="300" height="200">

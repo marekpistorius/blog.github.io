@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Monkey's Blog
-email: monkey2maniu@gmail.com
+title: Marek's Blog
+email: marek.pistorius@mpistorius.eu
 description: > # this means to ignore newlines until "baseurl:"
   Linux • Music • Open Source • Tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://maniu.eu" # the base hostname & protocol for your site
-twitter_username: monkey_maniu
-github_username:  mmaniu
+url: "https://blog.maniu.eu" # the base hostname & protocol for your site
+twitter_username: Marek_Pistorius
+github_username:  marekpistorius
 
 paginate: 10
 

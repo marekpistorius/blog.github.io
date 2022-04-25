@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "GTK 4+ Under Windows with Visual Studio 2022"
-date:   2022-04-25 20:00:00 +0100
-categories: cpp visualstudio
+title:  "GTK 4 Under Windows with Visual Studio 2022"
+date:   2022-04-25 20:00:00 +0000
+categories: cpp 
 ---
 
 Set as follows while using vcpkg https://github.com/microsoft/vcpkg/

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "GTK 4+ Under Windows with Visual Studio 2022"
-date:   2022-04-26 21:10:00 +0000
+date:   2022-04-25 21:10:00 +0000
 categories: cpp visualstudio
 ---
 

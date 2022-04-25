@@ -1,2 +1,2 @@
-# monkeymaniu
+# blog.maniu.eu
 Blog

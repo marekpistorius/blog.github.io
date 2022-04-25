@@ -8,7 +8,7 @@ categories: cpp
 Set as follows while using vcpkg for install gtk
 [vcpkg](https://github.com/microsoft/vcpkg/).
 
-<img src="/images/devenv_include.png" width="300" height="200">
-<img src="/images/devenv_libs.png)" width="300" height="200">
-<img src="/images/devenv_link.png)" width="300" height="200">
-<img src="/images/devenv_env.png)" width="300" height="200">
+<img src="/images/devenv_include.png" width="600" height="400">
+<img src="/images/devenv_libs.png" width="600" height="400">
+<img src="/images/devenv_link.png" width="600" height="400">
+<img src="/images/devenv_env.png" width="600" height="400">

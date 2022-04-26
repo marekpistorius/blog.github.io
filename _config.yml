@@ -9,9 +9,9 @@
 title: Marek's Blog
 email: marek.pistorius@mpistorius.eu
 description: > # this means to ignore newlines until "baseurl:"
-  Linux • Music • Open Source • Tech.
+  Linux • Open Source • Tech.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.maniu.eu" # the base hostname & protocol for your site
+url: "https://blog.mpistorius.eu" # the base hostname & protocol for your site
 twitter_username: Marek_Pistorius
 github_username:  marekpistorius
 

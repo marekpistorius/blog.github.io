@@ -1,2 +1,2 @@
-# blog.maniu.eu
+# blog.mpistorius.eu
 Blog

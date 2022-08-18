@@ -1,2 +1,2 @@
 # blog.mpistorius.eu
-Blog
+Personal Blog

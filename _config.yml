@@ -1,26 +1,3 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
 title: Marek's Blog
-email: marek.pistorius@mpistorius.eu
-description: > # this means to ignore newlines until "baseurl:"
-  Linux • Open Source • Tech.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://blog.mpistorius.eu" # the base hostname & protocol for your site
-twitter_username: Marek_Pistorius
-github_username:  marekpistorius
-
-paginate: 10
-
-gaaccount: ''
-
-highlighter: rouge
-
-gems: ['jekyll-paginate']
-
-exclude: ['README.md', 'LICENSE']
+description: Linux • Open Source • Tech
+url: https://blog.mpistorius.eu
